@@ -1,0 +1,2 @@
+simple:Read a book:200:True
+eternal:Going to the temple:100:False:100
